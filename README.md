@@ -1,2 +1,9 @@
-# PostgreSQL_with_Dynamic_Credentials
-# PostgreSQL_with_Dynamic_Credentials
+# init
+
+apt install jq
+
+# PostgreSQL
+
+# Hashicorp's Vault
+
+#
